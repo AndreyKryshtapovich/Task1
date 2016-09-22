@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ns:web-app id="WebApp_9" version="a24"
-	xmlns:ns="http://www.example.org/WebXMLSchema" 
+	xmlns:ns="http://www.example.org/Andrey/webSchema"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.example.org/WebXMLSchema WebXMLSchema.xsd">
+	xsi:schemaLocation="http://www.example.org/Andrey/webSchema webSchema.xsd">
 	<ns:display-name>Servlet 2.4 application</ns:display-name>
 	<ns:welcome-file-list>
 		<ns:welcome-file>index.html</ns:welcome-file>
